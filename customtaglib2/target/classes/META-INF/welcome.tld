@@ -1,0 +1,11 @@
+<taglib>
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <short-name>welcome tag</short-name>
+    <uri>http://kyang.com/welcometag</uri>
+    <tag>
+        <name>welcome</name>
+        <tag-class>com.kyang.customtaglib2.WelcomeMessageTag</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+</taglib>
